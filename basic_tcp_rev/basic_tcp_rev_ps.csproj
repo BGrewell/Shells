@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{39F1D5DF-65B0-424F-98E9-5BF5CF0208E8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>basic_tcp_rev</RootNamespace>
-    <AssemblyName>basic_tcp_rev</AssemblyName>
+    <RootNamespace>basic_tcp_rev_ps</RootNamespace>
+    <AssemblyName>basic_tcp_rev_ps</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
